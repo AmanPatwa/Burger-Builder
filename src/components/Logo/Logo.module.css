@@ -1,0 +1,13 @@
+.Logo{
+    /* padding: 8px; */
+    /* background-color: white; */
+    
+    text-align: center;
+}
+
+.Logo img{
+    
+    margin: auto;
+    height: 30px;
+    width: 50px;
+}
